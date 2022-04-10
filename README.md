@@ -1,3 +1,3 @@
-# JoKenPo-em-Java
+# JoKenPo em Java
 
-Uma melhor de 3 de pedra, papel e tesoura. Trabalho da faculdade feita em java.
+Trabalho de faculdade envolvendo criar uma melhor de 3 do jogo Pedra, Papel e Tesoura.
